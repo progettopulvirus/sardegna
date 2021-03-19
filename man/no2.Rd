@@ -3,14 +3,14 @@
 \docType{data}
 \name{no2}
 \alias{no2}
-\title{Tibble con i dati di no2 per 20 stazioni della regione SARDEGNA}
+\title{Tibble con i dati di no2 per 23 stazioni della regione SARDEGNA}
 \format{
-Un tibble con 8 colonne e 54734 osservazioni
+Un tibble con 8 colonne e 62948 osservazioni
 }
 \usage{
 no2
 }
 \description{
-Tibble con i dati di no2 per 20 stazioni della regione SARDEGNA
+Tibble con i dati di no2 per 23 stazioni della regione SARDEGNA
 }
 \keyword{datasets}

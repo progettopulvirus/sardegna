@@ -3,14 +3,14 @@
 \docType{data}
 \name{nox}
 \alias{nox}
-\title{Tibble con i dati di nox per 20 stazioni della regione SARDEGNA}
+\title{Tibble con i dati di nox per 23 stazioni della regione SARDEGNA}
 \format{
-Un tibble con 8 colonne e 54734 osservazioni
+Un tibble con 8 colonne e 62948 osservazioni
 }
 \usage{
 nox
 }
 \description{
-Tibble con i dati di nox per 20 stazioni della regione SARDEGNA
+Tibble con i dati di nox per 23 stazioni della regione SARDEGNA
 }
 \keyword{datasets}
