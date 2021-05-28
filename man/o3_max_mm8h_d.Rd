@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_mm8h_d}
 \alias{o3_max_mm8h_d}
-\title{Tibble con i dati di o3_max_mm8h_d per 17 stazioni della regione SARDEGNA}
+\title{Tibble con i dati di o3_max_mm8h_d per 21 stazioni della regione SARDEGNA}
 \format{
-Un tibble con 8 colonne e 43590 osservazioni
+Un tibble con 8 colonne e 60962 osservazioni
 }
 \usage{
 o3_max_mm8h_d
 }
 \description{
-Tibble con i dati di o3_max_mm8h_d per 17 stazioni della regione SARDEGNA
+Tibble con i dati di o3_max_mm8h_d per 21 stazioni della regione SARDEGNA
 }
 \keyword{datasets}
